@@ -22,5 +22,7 @@ This repository contains a series of Python challenges using the Turtle graphics
 
 # Technologies
 > Python 3.x
+> 
 > Turtle graphics library
+> 
 > Random library for generating random colors and movements
