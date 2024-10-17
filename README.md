@@ -21,4 +21,4 @@ This repository contains a series of Python challenges using the Turtle graphics
 - You can modify parameters (like the number of sides for shapes, colors, and speed) in the code to experiment with different outputs.
 
 # Technologies
-Python 3.x | Turtle graphics library | Random library for generating random colors and movements
+Python 3.x   |   Turtle graphics library   |   Random library for generating random colors and movements
